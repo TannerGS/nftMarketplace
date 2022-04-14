@@ -2,6 +2,8 @@
   "expo": {
     "name": "nftMarketplace",
     "slug": "nftMarketplace",
+    "owner": "tanner2202",
+    "id": "6b8ba84c-4cc9-4089-92ae-0636862cbb39",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
